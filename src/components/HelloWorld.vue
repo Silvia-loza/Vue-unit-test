@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h2> Estamos aprendiendo a hacer unit Tests - El drama de los tests</h2>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
