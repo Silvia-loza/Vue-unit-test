@@ -12,7 +12,6 @@ describe('HelloWorld.vue', () => {
   })
 })
 
-
 describe('Testeando.vue', () => {
   it('renders title', () => {
     const title = 'Titulo'
